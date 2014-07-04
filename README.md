@@ -16,4 +16,4 @@ bash sys-profiller.sh <process_name>
 Originally this technology was released as a collaborative effort by Mark Callaghan and Domas Mituzas at http://mituzas.lt/2009/02/15/poor-mans-contention-profiling/
 
 ###Author
-jiasir(Taio) jiasir@icloud.com
+jiasir (Taio Jia) <jiasir@icloud.com>
